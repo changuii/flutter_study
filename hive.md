@@ -11,7 +11,6 @@ dev_dependencies:
 	hive_flutter:
 ```
 ## 환경설정
-	- 
 ```dart
 import  'package:hive_flutter/hive_flutter.dart';
 
@@ -75,5 +74,4 @@ box.putAll({'key1':  'value1',  42:  'life'});
 ```
 
 ## 공식 문서
-	- 
 	-[주소](https://docs.hivedb.dev/#/)
