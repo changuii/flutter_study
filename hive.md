@@ -73,5 +73,3 @@ box.put(123,  'test');
 box.putAll({'key1':  'value1',  42:  'life'});
 ```
 
-## 공식 문서
-	-[주소](https://docs.hivedb.dev/#/)
